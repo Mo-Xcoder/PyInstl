@@ -1,0 +1,3 @@
+[console_scripts]
+PyInstl = PyInstl.main:main
+

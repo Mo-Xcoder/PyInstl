@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+PyInstl/LoadAnim.py
+PyInstl/PyInstl.py
+PyInstl/__init__.py
+PyInstl.egg-info/PKG-INFO
+PyInstl.egg-info/SOURCES.txt
+PyInstl.egg-info/dependency_links.txt
+PyInstl.egg-info/entry_points.txt
+PyInstl.egg-info/requires.txt
+PyInstl.egg-info/top_level.txt
